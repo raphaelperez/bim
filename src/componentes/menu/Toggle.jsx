@@ -1,4 +1,4 @@
-import "./menu.css";
+import "./Menu.css";
 
 export default function Toggle(props) {
   return (
