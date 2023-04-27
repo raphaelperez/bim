@@ -1,0 +1,86 @@
+{
+  "AMB-00": {
+    "etapas": [
+      "ETP-01",
+      "ETP-02",
+      "ETP-03"
+    ],
+    "disciplinas": {
+      "ETP-01": [
+        "DCP-11",
+        "DCP-12"
+      ],
+      "ETP-02": [
+        "DCP-21",
+        "DCP-22"
+      ],
+      "ETP-03": [
+        "DCP-31",
+        "DCP-33",
+        "DCP-34",
+        "DCP-35"
+      ]
+    }
+  },
+  "AMB-01": {
+    "etapas": [
+      "ETP-01",
+      "ETP-02",
+      "ETP-03"
+    ],
+    "disciplinas": {
+      "ETP-01": [
+        "DCP-11",
+        "DCP-12"
+      ],
+      "ETP-02": [
+        "DCP-21",
+        "DCP-22"
+      ],
+      "ETP-03": [
+        "DCP-31",
+        "DCP-33",
+        "DCP-34",
+        "DCP-35"
+      ]
+    }
+  },
+  "AMB-02": {
+    "etapas": [
+      "ETP-01",
+      "ETP-02",
+      "ETP-03"
+    ],
+    "disciplinas": {
+      "ETP-01": [
+        "DCP-11"
+      ],
+      "ETP-02": [
+        "DCP-21",
+        "DCP-22"
+      ],
+      "ETP-03": [
+        "DCP-31"
+      ]
+    }
+  },
+  "AMB-03": {
+    "etapas": [
+      "ETP-01",
+      "ETP-02",
+      "ETP-03"
+    ],
+    "disciplinas": {
+      "ETP-01": [
+        "DCP-11"
+      ],
+      "ETP-02": [
+        "DCP-21",
+        "DCP-22"
+      ],
+      "ETP-03": [
+        "DCP-31"
+      ]
+    }
+  }
+}

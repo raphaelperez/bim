@@ -1,0 +1,249 @@
+{
+  "projeto": "APTO-01",
+  "ambientes": [
+    {
+      "id": "MENU-AMB-00",
+      "nome": "AMB-00",
+      "titulo": "Apartamento"
+    },
+    {
+      "id": "MENU-AMB-01",
+      "nome": "AMB-01",
+      "titulo": "Sala e Cozinha"
+    },
+    {
+      "id": "MENU-AMB-02",
+      "nome": "AMB-02",
+      "titulo": "Varanda"
+    },
+    {
+      "id": "MENU-AMB-03",
+      "nome": "AMB-03",
+      "titulo": "\u00c1rea de Servi\u00e7o"
+    }
+  ],
+  "etapas": {
+    "AMB-01": [
+      {
+        "id": "MENU-AMB-01-ETP-01",
+        "nome": "ETP-01",
+        "titulo": "Situa\u00e7\u00e3o Existente"
+      },
+      {
+        "id": "MENU-AMB-01-ETP-02",
+        "nome": "ETP-02",
+        "titulo": "Reforma"
+      },
+      {
+        "id": "MENU-AMB-01-ETP-03",
+        "nome": "ETP-03",
+        "titulo": "Situa\u00e7\u00e3o Projetada"
+      }
+    ],
+    "AMB-02": [
+      {
+        "id": "MENU-AMB-02-ETP-01",
+        "nome": "ETP-01",
+        "titulo": "Situa\u00e7\u00e3o Existente"
+      },
+      {
+        "id": "MENU-AMB-02-ETP-02",
+        "nome": "ETP-02",
+        "titulo": "Reforma"
+      },
+      {
+        "id": "MENU-AMB-02-ETP-03",
+        "nome": "ETP-03",
+        "titulo": "Situa\u00e7\u00e3o Projetada"
+      }
+    ],
+    "AMB-03": [
+      {
+        "id": "MENU-AMB-03-ETP-01",
+        "nome": "ETP-01",
+        "titulo": "Situa\u00e7\u00e3o Existente"
+      },
+      {
+        "id": "MENU-AMB-03-ETP-02",
+        "nome": "ETP-02",
+        "titulo": "Reforma"
+      },
+      {
+        "id": "MENU-AMB-03-ETP-03",
+        "nome": "ETP-03",
+        "titulo": "Situa\u00e7\u00e3o Projetada"
+      }
+    ],
+    "AMB-00": [
+      {
+        "id": "MENU-AMB-01-ETP-01",
+        "nome": "ETP-01",
+        "titulo": "Situa\u00e7\u00e3o Existente"
+      },
+      {
+        "id": "MENU-AMB-01-ETP-02",
+        "nome": "ETP-02",
+        "titulo": "Reforma"
+      },
+      {
+        "id": "MENU-AMB-01-ETP-03",
+        "nome": "ETP-03",
+        "titulo": "Situa\u00e7\u00e3o Projetada"
+      }
+    ]
+  },
+  "disciplinas": {
+    "AMB-01": {
+      "ETP-01": [
+        {
+          "id": "MENU-AMB-01-ETP-01-DCP-11",
+          "nome": "DCP-11",
+          "titulo": "Levantamento Formal"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-01-DCP-12",
+          "nome": "DCP-12",
+          "titulo": "Pontos de El\u00e9trica"
+        }
+      ],
+      "ETP-02": [
+        {
+          "id": "MENU-AMB-01-ETP-02-DCP-21",
+          "nome": "DCP-21",
+          "titulo": "A Demolir"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-02-DCP-22",
+          "nome": "DCP-22",
+          "titulo": "A Construir"
+        }
+      ],
+      "ETP-03": [
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-31",
+          "nome": "DCP-31",
+          "titulo": "Pisos e Revestimentos"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-33",
+          "nome": "DCP-33",
+          "titulo": "Marmoraria"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-34",
+          "nome": "DCP-34",
+          "titulo": "Marcenaria"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-35",
+          "nome": "DCP-35",
+          "titulo": "Equipamentos"
+        }
+      ]
+    },
+    "AMB-02": {
+      "ETP-01": [
+        {
+          "id": "MENU-AMB-02-ETP-01-DCP-11",
+          "nome": "DCP-11",
+          "titulo": "Levantamento Formal"
+        }
+      ],
+      "ETP-02": [
+        {
+          "id": "MENU-AMB-02-ETP-02-DCP-21",
+          "nome": "DCP-21",
+          "titulo": "A Demolir"
+        },
+        {
+          "id": "MENU-AMB-02-ETP-02-DCP-22",
+          "nome": "DCP-22",
+          "titulo": "A Construir"
+        }
+      ],
+      "ETP-03": [
+        {
+          "id": "MENU-AMB-02-ETP-03-DCP-31",
+          "nome": "DCP-31",
+          "titulo": "Pisos e Revestimentos"
+        }
+      ]
+    },
+    "AMB-03": {
+      "ETP-01": [
+        {
+          "id": "MENU-AMB-03-ETP-01-DCP-11",
+          "nome": "DCP-11",
+          "titulo": "Levantamento Formal"
+        }
+      ],
+      "ETP-02": [
+        {
+          "id": "MENU-AMB-03-ETP-02-DCP-21",
+          "nome": "DCP-21",
+          "titulo": "A Demolir"
+        },
+        {
+          "id": "MENU-AMB-03-ETP-02-DCP-22",
+          "nome": "DCP-22",
+          "titulo": "A Construir"
+        }
+      ],
+      "ETP-03": [
+        {
+          "id": "MENU-AMB-03-ETP-03-DCP-31",
+          "nome": "DCP-31",
+          "titulo": "Pisos e Revestimentos"
+        }
+      ]
+    },
+    "AMB-00": {
+      "ETP-01": [
+        {
+          "id": "MENU-AMB-01-ETP-01-DCP-11",
+          "nome": "DCP-11",
+          "titulo": "Levantamento Formal"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-01-DCP-12",
+          "nome": "DCP-12",
+          "titulo": "Pontos de El\u00e9trica"
+        }
+      ],
+      "ETP-02": [
+        {
+          "id": "MENU-AMB-01-ETP-02-DCP-21",
+          "nome": "DCP-21",
+          "titulo": "A Demolir"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-02-DCP-22",
+          "nome": "DCP-22",
+          "titulo": "A Construir"
+        }
+      ],
+      "ETP-03": [
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-31",
+          "nome": "DCP-31",
+          "titulo": "Pisos e Revestimentos"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-33",
+          "nome": "DCP-33",
+          "titulo": "Marmoraria"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-34",
+          "nome": "DCP-34",
+          "titulo": "Marcenaria"
+        },
+        {
+          "id": "MENU-AMB-01-ETP-03-DCP-35",
+          "nome": "DCP-35",
+          "titulo": "Equipamentos"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ambientes": {
+    "AMB-00": [
+      "AMB-01",
+      "AMB-02",
+      "AMB-03"
+    ],
+    "AMB-01": [
+      "AMB-01"
+    ],
+    "AMB-02": [
+      "AMB-02"
+    ],
+    "AMB-03": [
+      "AMB-03"
+    ]
+  },
+  "arquivos": {
+    "AMB-01": {
+      "ETP-01": {
+        "id": "AMB-01-ETP-01",
+        "gltf": "./gltf/AMB-01-ETP-01.glb",
+        "textura": "./gltf/texturas/AMB-01-ETP-01-0001.webp"
+      },
+      "ETP-02": {
+        "id": "AMB-01-ETP-02",
+        "gltf": "./gltf/AMB-01-ETP-02.glb",
+        "textura": "./gltf/texturas/AMB-01-ETP-02-0001.webp"
+      },
+      "ETP-03": {
+        "id": "AMB-01-ETP-03",
+        "gltf": "./gltf/AMB-01-ETP-03.glb",
+        "textura": "./gltf/texturas/AMB-01-ETP-03-0001.webp"
+      }
+    },
+    "AMB-02": {
+      "ETP-01": {
+        "id": "AMB-02-ETP-01",
+        "gltf": "./gltf/AMB-02-ETP-01.glb",
+        "textura": "./gltf/texturas/AMB-02-ETP-01-0001.webp"
+      },
+      "ETP-02": {
+        "id": "AMB-02-ETP-02",
+        "gltf": "./gltf/AMB-02-ETP-02.glb",
+        "textura": "./gltf/texturas/AMB-02-ETP-02-0001.webp"
+      },
+      "ETP-03": {
+        "id": "AMB-02-ETP-03",
+        "gltf": "./gltf/AMB-02-ETP-03.glb",
+        "textura": "./gltf/texturas/AMB-02-ETP-03-0001.webp"
+      }
+    },
+    "AMB-03": {
+      "ETP-01": {
+        "id": "AMB-03-ETP-01",
+        "gltf": "./gltf/AMB-03-ETP-01.glb",
+        "textura": "./gltf/texturas/AMB-03-ETP-01-0001.webp"
+      },
+      "ETP-02": {
+        "id": "AMB-03-ETP-02",
+        "gltf": "./gltf/AMB-03-ETP-02.glb",
+        "textura": "./gltf/texturas/AMB-03-ETP-02-0001.webp"
+      },
+      "ETP-03": {
+        "id": "AMB-03-ETP-03",
+        "gltf": "./gltf/AMB-03-ETP-03.glb",
+        "textura": "./gltf/texturas/AMB-03-ETP-03-0001.webp"
+      }
+    }
+  }
+}

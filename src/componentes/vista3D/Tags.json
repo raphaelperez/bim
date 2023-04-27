@@ -1,0 +1,1402 @@
+{
+  "AMB-00": {
+    "nome": "Apartamento",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIN-E01-0101",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura das Paredes da Sala e Cozinha",
+                "posicao": {
+                  "x": 3.36,
+                  "y": 2.59,
+                  "z": -1.67
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIN-E01-0102",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura das Paredes da Sala e Cozinha",
+                "posicao": {
+                  "x": 3.48,
+                  "y": 1.54,
+                  "z": -3.59
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIS-E01-0101",
+                "conjunto": "Pisos",
+                "descricao": "Piso da Sala e Cozinha",
+                "posicao": {
+                  "x": 2.8,
+                  "y": 0.01,
+                  "z": -1.9
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-REV-E01-0101",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimentos da Sala e Cozinha",
+                "posicao": {
+                  "x": 6.69,
+                  "y": 1.3,
+                  "z": -1.8
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-REV-E02-0201",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimento da Varanda",
+                "posicao": {
+                  "x": -1.02,
+                  "y": 1.4,
+                  "z": 3.01
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIS-E01-0201",
+                "conjunto": "Pisos",
+                "descricao": "Piso da Varanda",
+                "posicao": {
+                  "x": 0.88,
+                  "y": 0.01,
+                  "z": 3.27
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIN-E01-0201",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura do Teto da Varanda",
+                "posicao": {
+                  "x": 0.92,
+                  "y": 2.59,
+                  "z": 3.46
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-REV-E01-0301",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimento interno da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.22,
+                  "z": 2.09
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-REV-E02-0301",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimento Externo da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.53,
+                  "z": 3.9
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIS-E01-0302",
+                "conjunto": "Pisos",
+                "descricao": "Piso interno da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 5.81,
+                  "y": 0.01,
+                  "z": 1.78
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIS-E01-0301",
+                "conjunto": "Pisos",
+                "descricao": "Piso externo da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 3.8
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-11-PIN-E01-0301",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura do Teto da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 2.59,
+                  "z": 2.17
+                }
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-INT-01-01E01",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 1 bot\u00e3o",
+                "posicao": {
+                  "x": 2.68,
+                  "y": 1.1,
+                  "z": -5.2
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-INT-01-01E02",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 1 bot\u00e3o",
+                "posicao": {
+                  "x": 0.01,
+                  "y": 1.1,
+                  "z": -2.58
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-INT-01-01E03",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 1 bot\u00e3o",
+                "posicao": {
+                  "x": 5.6,
+                  "y": 1.1,
+                  "z": -3.58
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-INT-02-01E01",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 2 bot\u00f5es",
+                "posicao": {
+                  "x": 2.85,
+                  "y": 1.1,
+                  "z": -3.58
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-TUG-02-01E01",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 0.01,
+                  "y": 0.35,
+                  "z": -1.2
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-TUG-02-01E02",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 0.01,
+                  "y": 0.35,
+                  "z": -1.5
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-TUG-02-01E03",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 6.68,
+                  "y": 1.2,
+                  "z": -3.1
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-TUG-02-01E04",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 6.68,
+                  "y": 1.2,
+                  "z": -2.0
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-01-DCP-12-TUG-02-01E05",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 6.68,
+                  "y": 1.2,
+                  "z": -0.5
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-21PIS-E01-0101",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 2.8,
+                  "y": 0.01,
+                  "z": -1.9
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-21REV-E01-0101",
+                "conjunto": "Revestimentos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 6.69,
+                  "y": 1.3,
+                  "z": -1.8
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-21PIS-E01-0201",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 0.88,
+                  "y": 0.01,
+                  "z": 3.27
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-21REV-E01-0301",
+                "conjunto": "Revestimentos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.22,
+                  "z": 2.09
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-21PIS-E01-0302",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 5.81,
+                  "y": 0.01,
+                  "z": 1.78
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-21PIS-E01-0301",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 3.8
+                }
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-22-FOR-P01-0101",
+                "conjunto": "Forro de Gesso",
+                "descricao": "",
+                "posicao": {
+                  "x": 2.7,
+                  "y": 2.49,
+                  "z": -1.98
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-22-FOR-P01-0201",
+                "conjunto": "Forro de Gesso",
+                "descricao": "",
+                "posicao": {
+                  "x": 0.92,
+                  "y": 2.49,
+                  "z": 3.46
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-02-DCP-22-FOR-P01-0301",
+                "conjunto": "Forro de Gesso",
+                "descricao": "",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 2.49,
+                  "z": 2.18
+                }
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "tags": [
+              {
+                "id": "TAG-AMB-00-ETP-02-DCP-23-ELET-",
+                "conjunto": "Conduites",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "tags": [
+              {
+                "id": "TAG-AMB-00-ETP-02-DCP-24-HIDR-",
+                "conjunto": "Tubos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "tags": [
+              {
+                "id": "TAG-AMB-00-ETP-02-DCP-25-ARCOND-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "tags": [
+              {
+                "id": "TAG-AMB-00-ETP-02-DCP-26-EXUST-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-33MRM-P01-0101",
+                "conjunto": "Bancada da Cozinha",
+                "posicao": {
+                  "x": 6.54,
+                  "y": 1.25,
+                  "z": -1.3
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-33MRM-P01-0102",
+                "conjunto": "Ilha da Cozinha",
+                "posicao": {
+                  "x": 4.45,
+                  "y": 1.03,
+                  "z": -1.72
+                }
+              }
+            ]
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-34-MRC-MRC-P01-0101",
+                "conjunto": "Arm\u00e1rio alto da Cozinha",
+                "posicao": {
+                  "x": 6.34,
+                  "y": 1.99,
+                  "z": -1.33
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-34-MRC-MRC-P01-0102",
+                "conjunto": "Arm\u00e1rio da bancada da Cozinha",
+                "posicao": {
+                  "x": 6.08,
+                  "y": 0.68,
+                  "z": -1.33
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-34-MRC-MRC-P01-0103",
+                "conjunto": "Torre do Refrigerador",
+                "posicao": {
+                  "x": 6.07,
+                  "y": 1.83,
+                  "z": -3.07
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-34-MRC-MRC-P01-0104",
+                "conjunto": "Painel da Sala",
+                "posicao": {
+                  "x": 0.12,
+                  "y": 1.3,
+                  "z": -2.5
+                }
+              }
+            ]
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-35SOF-P01-0101",
+                "conjunto": "Mobili\u00e1rio",
+                "descricao": "Sofa Boxie",
+                "posicao": {
+                  "x": 1.81,
+                  "y": 0.6,
+                  "z": -1.65
+                }
+              }
+            ]
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "tags": [
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIN-P01-0101",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Maciota",
+                "posicao": {
+                  "x": 3.41,
+                  "y": 1.42,
+                  "z": -3.59
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIN-P02-0101",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Branco Neve",
+                "posicao": {
+                  "x": 2.7,
+                  "y": 2.49,
+                  "z": -1.98
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIN-P02-0201",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Branco Neve",
+                "posicao": {
+                  "x": 0.92,
+                  "y": 2.49,
+                  "z": 3.46
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIN-P02-0301",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Branco Neve",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 2.49,
+                  "z": 2.18
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIN-P01-0301",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Maciota",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.4,
+                  "z": 1.96
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIS-P01-0101",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 2.03,
+                  "y": 0.01,
+                  "z": -3.41
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIS-P01-0201",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 1.4,
+                  "y": 0.01,
+                  "z": 2.62
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIS-P01-0302",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 1.78
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-PIS-P01-0301",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 3.8
+                }
+              },
+              {
+                "id": "TAGS-AMB-00-ETP-03-DCP-31-ROD-P01-0101",
+                "conjunto": "Rodap\u00e9s",
+                "descricao": "Santa Luzia - 70 mm",
+                "posicao": {
+                  "x": 3.49,
+                  "y": 0.07,
+                  "z": -3.57
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "AMB-01": {
+    "nome": "Sala e Cozinha",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-11-PIN-E01-0101",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura das Paredes da Sala e Cozinha",
+                "posicao": {
+                  "x": 3.36,
+                  "y": 2.59,
+                  "z": -1.67
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-11-PIN-E01-0102",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura das Paredes da Sala e Cozinha",
+                "posicao": {
+                  "x": 3.48,
+                  "y": 1.54,
+                  "z": -3.59
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-11-PIS-E01-0101",
+                "conjunto": "Pisos",
+                "descricao": "Piso da Sala e Cozinha",
+                "posicao": {
+                  "x": 2.8,
+                  "y": 0.01,
+                  "z": -1.9
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-11-REV-E01-0101",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimentos da Sala e Cozinha",
+                "posicao": {
+                  "x": 6.69,
+                  "y": 1.3,
+                  "z": -1.8
+                }
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-INT-01-01E01",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 1 bot\u00e3o",
+                "posicao": {
+                  "x": 2.68,
+                  "y": 1.1,
+                  "z": -5.2
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-INT-01-01E02",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 1 bot\u00e3o",
+                "posicao": {
+                  "x": 0.01,
+                  "y": 1.1,
+                  "z": -2.58
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-INT-01-01E03",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 1 bot\u00e3o",
+                "posicao": {
+                  "x": 5.6,
+                  "y": 1.1,
+                  "z": -3.58
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-INT-02-01E01",
+                "conjunto": "Interruptores",
+                "descricao": "Interruptor, 2 bot\u00f5es",
+                "posicao": {
+                  "x": 2.85,
+                  "y": 1.1,
+                  "z": -3.58
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-TUG-02-01E01",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 0.01,
+                  "y": 0.35,
+                  "z": -1.2
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-TUG-02-01E02",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 0.01,
+                  "y": 0.35,
+                  "z": -1.5
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-TUG-02-01E03",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 6.68,
+                  "y": 1.2,
+                  "z": -3.1
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-TUG-02-01E04",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 6.68,
+                  "y": 1.2,
+                  "z": -2.0
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-01-DCP-12-TUG-02-01E05",
+                "conjunto": "Tomadas",
+                "descricao": "Tomada, 2 plugs",
+                "posicao": {
+                  "x": 6.68,
+                  "y": 1.2,
+                  "z": -0.5
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-02-DCP-21PIS-E01-0101",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 2.8,
+                  "y": 0.01,
+                  "z": -1.9
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-02-DCP-21REV-E01-0101",
+                "conjunto": "Revestimentos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 6.69,
+                  "y": 1.3,
+                  "z": -1.8
+                }
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-02-DCP-22-FOR-P01-0101",
+                "conjunto": "Forro de Gesso",
+                "descricao": "",
+                "posicao": {
+                  "x": 2.7,
+                  "y": 2.49,
+                  "z": -1.98
+                }
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "tags": [
+              {
+                "id": "TAG-AMB-01-ETP-02-DCP-23-ELET-",
+                "conjunto": "Conduites",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "tags": [
+              {
+                "id": "TAG-AMB-01-ETP-02-DCP-24-HIDR-",
+                "conjunto": "Tubos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "tags": [
+              {
+                "id": "TAG-AMB-01-ETP-02-DCP-25-ARCOND-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "tags": [
+              {
+                "id": "TAG-AMB-01-ETP-02-DCP-26-EXUST-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-33MRM-P01-0101",
+                "conjunto": "Bancada da Cozinha",
+                "posicao": {
+                  "x": 6.54,
+                  "y": 1.25,
+                  "z": -1.3
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-33MRM-P01-0102",
+                "conjunto": "Ilha da Cozinha",
+                "posicao": {
+                  "x": 4.45,
+                  "y": 1.03,
+                  "z": -1.72
+                }
+              }
+            ]
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-34-MRC-MRC-P01-0101",
+                "conjunto": "Arm\u00e1rio alto da Cozinha",
+                "posicao": {
+                  "x": 6.34,
+                  "y": 1.99,
+                  "z": -1.33
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-34-MRC-MRC-P01-0102",
+                "conjunto": "Arm\u00e1rio da bancada da Cozinha",
+                "posicao": {
+                  "x": 6.08,
+                  "y": 0.68,
+                  "z": -1.33
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-34-MRC-MRC-P01-0103",
+                "conjunto": "Torre do Refrigerador",
+                "posicao": {
+                  "x": 6.07,
+                  "y": 1.83,
+                  "z": -3.07
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-34-MRC-MRC-P01-0104",
+                "conjunto": "Painel da Sala",
+                "posicao": {
+                  "x": 0.12,
+                  "y": 1.3,
+                  "z": -2.5
+                }
+              }
+            ]
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-35SOF-P01-0101",
+                "conjunto": "Mobili\u00e1rio",
+                "descricao": "Sofa Boxie",
+                "posicao": {
+                  "x": 1.81,
+                  "y": 0.6,
+                  "z": -1.65
+                }
+              }
+            ]
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "tags": [
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-31-PIN-P01-0101",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Maciota",
+                "posicao": {
+                  "x": 3.41,
+                  "y": 1.42,
+                  "z": -3.59
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-31-PIN-P02-0101",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Branco Neve",
+                "posicao": {
+                  "x": 2.7,
+                  "y": 2.49,
+                  "z": -1.98
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-31-PIS-P01-0101",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 2.03,
+                  "y": 0.01,
+                  "z": -3.41
+                }
+              },
+              {
+                "id": "TAGS-AMB-01-ETP-03-DCP-31-ROD-P01-0101",
+                "conjunto": "Rodap\u00e9s",
+                "descricao": "Santa Luzia - 70 mm",
+                "posicao": {
+                  "x": 3.49,
+                  "y": 0.07,
+                  "z": -3.57
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "AMB-02": {
+    "nome": "Varanda",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "tags": [
+              {
+                "id": "TAGS-AMB-02-ETP-01-DCP-11-REV-E02-0201",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimento da Varanda",
+                "posicao": {
+                  "x": -1.02,
+                  "y": 1.4,
+                  "z": 3.01
+                }
+              },
+              {
+                "id": "TAGS-AMB-02-ETP-01-DCP-11-PIS-E01-0201",
+                "conjunto": "Pisos",
+                "descricao": "Piso da Varanda",
+                "posicao": {
+                  "x": 0.88,
+                  "y": 0.01,
+                  "z": 3.27
+                }
+              },
+              {
+                "id": "TAGS-AMB-02-ETP-01-DCP-11-PIN-E01-0201",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura do Teto da Varanda",
+                "posicao": {
+                  "x": 0.92,
+                  "y": 2.59,
+                  "z": 3.46
+                }
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "tags": []
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-02-ETP-02-DCP-21PIS-E01-0201",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 0.88,
+                  "y": 0.01,
+                  "z": 3.27
+                }
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-02-ETP-02-DCP-22-FOR-P01-0201",
+                "conjunto": "Forro de Gesso",
+                "descricao": "",
+                "posicao": {
+                  "x": 0.92,
+                  "y": 2.49,
+                  "z": 3.46
+                }
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "tags": [
+              {
+                "id": "TAG-AMB-02-ETP-02-DCP-23-ELET-",
+                "conjunto": "Conduites",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "tags": [
+              {
+                "id": "TAG-AMB-02-ETP-02-DCP-24-HIDR-",
+                "conjunto": "Tubos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "tags": [
+              {
+                "id": "TAG-AMB-02-ETP-02-DCP-25-ARCOND-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "tags": [
+              {
+                "id": "TAG-AMB-02-ETP-02-DCP-26-EXUST-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "tags": []
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "tags": []
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "tags": []
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "tags": [
+              {
+                "id": "TAGS-AMB-02-ETP-03-DCP-31-PIN-P02-0201",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Branco Neve",
+                "posicao": {
+                  "x": 0.92,
+                  "y": 2.49,
+                  "z": 3.46
+                }
+              },
+              {
+                "id": "TAGS-AMB-02-ETP-03-DCP-31-PIS-P01-0201",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 1.4,
+                  "y": 0.01,
+                  "z": 2.62
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "AMB-03": {
+    "nome": "\u00c1rea de Servi\u00e7o",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "tags": [
+              {
+                "id": "TAGS-AMB-03-ETP-01-DCP-11-REV-E01-0301",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimento interno da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.22,
+                  "z": 2.09
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-01-DCP-11-REV-E02-0301",
+                "conjunto": "Revestimentos",
+                "descricao": "Revestimento Externo da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.53,
+                  "z": 3.9
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-01-DCP-11-PIS-E01-0302",
+                "conjunto": "Pisos",
+                "descricao": "Piso interno da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 5.81,
+                  "y": 0.01,
+                  "z": 1.78
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-01-DCP-11-PIS-E01-0301",
+                "conjunto": "Pisos",
+                "descricao": "Piso externo da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 3.8
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-01-DCP-11-PIN-E01-0301",
+                "conjunto": "Pinturas",
+                "descricao": "Pintura do Teto da \u00c1rea de Servi\u00e7o",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 2.59,
+                  "z": 2.17
+                }
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "tags": []
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-03-ETP-02-DCP-21REV-E01-0301",
+                "conjunto": "Revestimentos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.22,
+                  "z": 2.09
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-02-DCP-21PIS-E01-0302",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 5.81,
+                  "y": 0.01,
+                  "z": 1.78
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-02-DCP-21PIS-E01-0301",
+                "conjunto": "Pisos",
+                "descricao": "Existente - Branco",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 3.8
+                }
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "tags": [
+              {
+                "id": "TAGS-AMB-03-ETP-02-DCP-22-FOR-P01-0301",
+                "conjunto": "Forro de Gesso",
+                "descricao": "",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 2.49,
+                  "z": 2.18
+                }
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "tags": [
+              {
+                "id": "TAG-AMB-03-ETP-02-DCP-23-ELET-",
+                "conjunto": "Conduites",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "tags": [
+              {
+                "id": "TAG-AMB-03-ETP-02-DCP-24-HIDR-",
+                "conjunto": "Tubos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "tags": [
+              {
+                "id": "TAG-AMB-03-ETP-02-DCP-25-ARCOND-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "tags": [
+              {
+                "id": "TAG-AMB-03-ETP-02-DCP-26-EXUST-",
+                "conjunto": "Dutos",
+                "nome": "",
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 1
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "tags": []
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "tags": []
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "tags": []
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "tags": [
+              {
+                "id": "TAGS-AMB-03-ETP-03-DCP-31-PIN-P02-0301",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Branco Neve",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 2.49,
+                  "z": 2.18
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-03-DCP-31-PIN-P01-0301",
+                "conjunto": "Pinturas",
+                "descricao": "Suvinil - Maciota",
+                "posicao": {
+                  "x": 4.91,
+                  "y": 1.4,
+                  "z": 1.96
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-03-DCP-31-PIS-P01-0302",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 1.78
+                }
+              },
+              {
+                "id": "TAGS-AMB-03-ETP-03-DCP-31-PIS-P01-0301",
+                "conjunto": "Pisos",
+                "descricao": "Portobello - Foogy Bianco",
+                "posicao": {
+                  "x": 5.8,
+                  "y": 0.01,
+                  "z": 3.8
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

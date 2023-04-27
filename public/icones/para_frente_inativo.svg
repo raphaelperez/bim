@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 48 48"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   id="svg42"
+   sodipodi:docname="para_frente_inativo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs46" /><sodipodi:namedview
+   id="namedview44"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="21.395833"
+   inkscape:cx="23.135346"
+   inkscape:cy="24"
+   inkscape:window-width="2560"
+   inkscape:window-height="1351"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg42" />
+    <g
+   transform="matrix(0.913731,0,0,0.715917,4.86102,20.0675)"
+   id="g40">
+        <g
+   id="Layer1">
+            <g
+   id="g37">
+                <g
+   transform="matrix(0.837942,0,0,1.06947,6.29025,-16.9659)"
+   id="g27">
+                    <path
+   d="M3.727,10.869L3.569,31.131L17.49,21L3.727,10.869Z"
+   style="fill:#bebebe;stroke:#bebebe;stroke-width:1.09px;fill-opacity:1;stroke-opacity:1"
+   id="path25" />
+                </g>
+                <g
+   transform="matrix(0.837942,0,0,1.06947,17.9554,-16.9659)"
+   id="g31">
+                    <path
+   d="M3.727,10.869L3.569,31.131L17.49,21L3.727,10.869Z"
+   style="fill:#bebebe;stroke:#bebebe;stroke-width:1.09px;stroke-opacity:1;fill-opacity:1"
+   id="path29" />
+                </g>
+                <g
+   transform="matrix(0.837942,0,0,1.06947,3.3492,-16.9659)"
+   id="g35">
+                    <path
+   d="M34.921,10.869L34.921,31.131"
+   style="fill:none;stroke:#bebebe;stroke-width:2.72px;stroke-opacity:1"
+   id="path33" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

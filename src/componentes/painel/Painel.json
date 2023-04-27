@@ -1,0 +1,3173 @@
+{
+  "AMB-00": {
+    "nome": "Apartamento",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0101",
+                    "img": "",
+                    "url": "",
+                    "area": 26.716,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0101-ITM",
+                        "titulo": "item",
+                        "info": "Piso da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0101-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0101-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0201",
+                    "img": "",
+                    "url": "",
+                    "area": 26.265,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0201-ITM",
+                        "titulo": "item",
+                        "info": "Piso da Varanda"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0201-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0201-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0201-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.3 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0302",
+                    "img": "",
+                    "url": "",
+                    "area": 5.67,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0302-ITM",
+                        "titulo": "item",
+                        "info": "Piso interno da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0302-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0302-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0302-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "5.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 1.26,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0301-ITM",
+                        "titulo": "item",
+                        "info": "Piso externo da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-11-PIS-PIS-E01-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "1.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0101",
+                    "img": "",
+                    "url": "",
+                    "area": 9.36,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0101-ITM",
+                        "titulo": "item",
+                        "info": "Revestimentos da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0101-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0101-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "9.4 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0201",
+                    "img": "",
+                    "url": "",
+                    "area": 52.01,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0201-ITM",
+                        "titulo": "item",
+                        "info": "Revestimento da Varanda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0201-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Cinza"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0201-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0201-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "52.0 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 19.908,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0301-ITM",
+                        "titulo": "item",
+                        "info": "Revestimento interno da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E01-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "19.9 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 8.38,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0301-ITM",
+                        "titulo": "item",
+                        "info": "Revestimento Externo da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Cinza"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-REV-REV-E02-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "8.4 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0101",
+                    "img": "",
+                    "url": "",
+                    "area": 26.557,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0101-ITM",
+                        "titulo": "item",
+                        "info": "Pintura das Paredes da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0101-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0101-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.6 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0102",
+                    "img": "",
+                    "url": "",
+                    "area": 39.137,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0102-ITM",
+                        "titulo": "item",
+                        "info": "Pintura das Paredes da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0102-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0102-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0102-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "39.1 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0201",
+                    "img": "",
+                    "url": "",
+                    "area": 26.265,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0201-ITM",
+                        "titulo": "item",
+                        "info": "Pintura do Teto da Varanda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0201-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0201-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0201-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.3 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 7.11,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0301-ITM",
+                        "titulo": "item",
+                        "info": "Pintura do Teto da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-01-DCP-11-PIN-PIN-E01-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "7.1 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-TOM",
+                "nome": "Tomadas",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-TOM-TUG-02",
+                    "img": "",
+                    "url": "",
+                    "qtde": 5,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-TOM-TUG-02-ITM",
+                        "titulo": "item",
+                        "info": "Tomada, 2 plugs"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-TOM-TUG-02-QTDE",
+                        "titulo": "qtde",
+                        "info": "5 unid."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT",
+                "nome": "Interruptores",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT-01-01E01",
+                    "img": "",
+                    "url": "",
+                    "qtde": 3,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT-INT-01-ITM",
+                        "titulo": "item",
+                        "info": "Interruptor, 1 bot\u00e3o"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT-01-01E01-QTDE",
+                        "titulo": "qtde",
+                        "info": "3 unid."
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT-02-01E01",
+                    "img": "",
+                    "url": "",
+                    "qtde": 1,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT-INT-02-ITM",
+                        "titulo": "item",
+                        "info": "Interruptor, 2 bot\u00f5es"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-00-ETP-01-DCP-12-INT-02-01E01-QTDE",
+                        "titulo": "qtde",
+                        "info": "1 unid."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-21-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-21-PISPIS-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 59.911,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-21-PISPIS-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-21-PISPIS-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "59.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-21-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-21-REVREV-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 29.268,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-21-REVREV-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-21-REVREV-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "29.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-22-FOR",
+                "nome": "Forro de Gesso",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-22-FOR-TAB-P01",
+                    "img": "",
+                    "url": "",
+                    "comprimento": 62.400000000000006,
+                    "tipo": "Tabica",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-22-FOR-TAB-P01-ITM",
+                        "titulo": "item",
+                        "info": "Tabica - Perfil L - 2 x 2 cm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-22-FOR-TAB-P01-COMP",
+                        "titulo": "comprimento",
+                        "info": "62.4 m"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-22-GES-P01",
+                    "descricao": "Placa de Gesso Acartonado",
+                    "img": "",
+                    "url": "",
+                    "area": 59.486,
+                    "tipo": "Gesso",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-22-FOR-GES-P01-ITM",
+                        "titulo": "item",
+                        "info": "Placa de Gesso Acartonado"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-22-GES-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "59.5 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-23-ELET",
+                "nome": "Conduites",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-23-ELET-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-23-ELET-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-24-HIDRA",
+                "nome": "Tubos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-24-HIDRA-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-24-HIDRA-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-25-ARCOND",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-25-ARCOND-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-25-ARCOND-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-02-DCP-26-EXAUST",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-02-DCP-26-EXAUST-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-02-DCP-26-EXAUST-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0101",
+                "nome": "Bancada da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0101",
+                    "img": "./img/marmore-calacata.jpg",
+                    "url": "",
+                    "area": 4.633999999999999,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0101-MRM-P01-0101-PED",
+                        "titulo": "pedra",
+                        "info": "M\u00e1rmore"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0101-MRM-P01-0101-ESP",
+                        "titulo": "especificacao",
+                        "info": "Calacata"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "4.6 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0102",
+                "nome": "Ilha da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0102",
+                    "img": "./img/marmore-calacata.jpg",
+                    "url": "",
+                    "area": 6.465000000000001,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0102-MRM-P01-0102-PED",
+                        "titulo": "pedra",
+                        "info": "M\u00e1rmore"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0102-MRM-P01-0102-ESP",
+                        "titulo": "especificacao",
+                        "info": "Calacata"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-33-MRM-P01-0102-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "6.5 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101",
+                "nome": "Arm\u00e1rio alto da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MAD-P01",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 4.434927,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MAD-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "4.4 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 2.0237700000000003,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0101-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "2.0 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102",
+                "nome": "Arm\u00e1rio da bancada da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MAD-P01",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 8.659471000000002,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MAD-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "8.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 1.7723999999999998,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "1.8 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MAD-P02",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 2.0983124999999996,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESP",
+                        "titulo": "espessura",
+                        "info": "6 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0102-MAD-P02-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "2.1 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103",
+                "nome": "Torre do Refrigerador",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MAD-P01",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 1.737072,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MAD-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "1.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 3.955823999999999,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0103-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "4.0 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104",
+                "nome": "Painel da Sala",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 9.36,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-34-MRC-P01-0104-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "9.4 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-35-MOB",
+                "nome": "Mobili\u00e1rio",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-35-MOBSOF-P01-0101",
+                    "img": "./img/sofa-boxie.jpg",
+                    "url": "https://boobam.com.br/produto/sofa-boxie-cru-15078",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-35-MOBSOF-P01-0101-TIP",
+                        "titulo": "tipo",
+                        "info": "Sofa"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-35-MOBSOF-P01-0101-ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "Boxie"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-35-MOBSOF-P01-0101-FABR",
+                        "titulo": "fabricante",
+                        "info": "Boobam / Est\u00fadio Bro"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-35-MOBSOF-P01-0101-COR",
+                        "titulo": "cor",
+                        "info": "Cru"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIS-P01",
+                    "img": "./img/portobello-foogybianco.jpg",
+                    "url": "https://www.portobello.com.br/produtos/living/foggy-bianco/1914/revestimentos/porcelanato?channel=portobello-shop",
+                    "area": 59.911,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIS-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Portobello"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIS-P01ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "Foogy Bianco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIS-P01MAT",
+                        "titulo": "material",
+                        "info": "Porcelanato"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIS-P01REJ",
+                        "titulo": "rejunte",
+                        "info": ""
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIS-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "59.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-31-ROD",
+                "nome": "Rodap\u00e9s",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-31-ROD-ROD-P01",
+                    "img": "./img/santaluzia-lev71brancodepoliestireno.jpg",
+                    "url": "https://www.industriasantaluzia.com.br/produtos/detalhes/rodape/rodape-lev71-branco-de-poliestireno-com-70mm-de-altura/",
+                    "comprimento": 17.54,
+                    "tipo": "Tabica",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-ROD-ROD-P01-FAB",
+                        "titulo": "fabricante",
+                        "info": "Santa Luzia"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-ROD-ROD-P01-LAR",
+                        "titulo": "largura",
+                        "info": "70 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-ROD-ROD-P01-ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "LEV71 Branco de Poliestireno"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-ROD-ROD-P01-COMP",
+                        "titulo": "comprimento",
+                        "info": "17.5 m"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-31-REV",
+                "nome": "Revestimentos",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIN-PIN-P01",
+                    "descricao": "Suvinil - Maciota",
+                    "img": "./img/suvinil-maciota.jpg",
+                    "url": "https://www.suvinil.com.br/cores/leque-cores-digital/brancas-e-leves/maciota-b522/c0r",
+                    "area": 68.405,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P01ESP",
+                        "titulo": "cor",
+                        "info": "Maciota"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P01TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P01ACA",
+                        "titulo": "acabamento",
+                        "info": "Toque de Seda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIN-PIN-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "68.4 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIN-PIN-P02",
+                    "descricao": "Suvinil - Rende e Cobre Muito",
+                    "img": "./img/suvinil-branconeve.jpg",
+                    "url": "https://loja.suvinil.com.br/paredes/tintas-exterior-e-interior/tinta-suvinil-fosco-completo/77/pr0d?cor=RM181",
+                    "area": 59.308,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P02FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P02ESP",
+                        "titulo": "cor",
+                        "info": "Branco Neve"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P02TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIS-PIN-P02ACA",
+                        "titulo": "acabamento",
+                        "info": "Fosco Completo"
+                      },
+                      {
+                        "id": "PAINEL-AMB-00-ETP-03-DCP-31-PIN-PIN-P02-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "59.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "AMB-01": {
+    "nome": "Sala e Cozinha",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-11-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-11-PIS-PIS-E01-0101",
+                    "img": "",
+                    "url": "",
+                    "area": 26.716,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-11-PIS-PIS-E01-0101-ITM",
+                        "titulo": "item",
+                        "info": "Piso da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-11-PIS-PIS-E01-0101-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-11-PIS-PIS-E01-0101-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-11-PIS-PIS-E01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.7 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-01-DCP-11-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-01-DCP-11-REV-REV-E01-0101",
+                    "img": "",
+                    "url": "",
+                    "area": 9.36,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-REV-REV-E01-0101-ITM",
+                        "titulo": "item",
+                        "info": "Revestimentos da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-REV-REV-E01-0101-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-REV-REV-E01-0101-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-REV-REV-E01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "9.4 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0101",
+                    "img": "",
+                    "url": "",
+                    "area": 26.557,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0101-ITM",
+                        "titulo": "item",
+                        "info": "Pintura das Paredes da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0101-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0101-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.6 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0102",
+                    "img": "",
+                    "url": "",
+                    "area": 39.137,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0102-ITM",
+                        "titulo": "item",
+                        "info": "Pintura das Paredes da Sala e Cozinha"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0102-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0102-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-01-DCP-11-PIN-PIN-E01-0102-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "39.1 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-TOM",
+                "nome": "Tomadas",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-TOM-TUG-02",
+                    "img": "",
+                    "url": "",
+                    "qtde": 5,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-TOM-TUG-02-ITM",
+                        "titulo": "item",
+                        "info": "Tomada, 2 plugs"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-TOM-TUG-02-QTDE",
+                        "titulo": "qtde",
+                        "info": "5 unid."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT",
+                "nome": "Interruptores",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT-01-01E01",
+                    "img": "",
+                    "url": "",
+                    "qtde": 3,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT-INT-01-ITM",
+                        "titulo": "item",
+                        "info": "Interruptor, 1 bot\u00e3o"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT-01-01E01-QTDE",
+                        "titulo": "qtde",
+                        "info": "3 unid."
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT-02-01E01",
+                    "img": "",
+                    "url": "",
+                    "qtde": 1,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT-INT-02-ITM",
+                        "titulo": "item",
+                        "info": "Interruptor, 2 bot\u00f5es"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-01-ETP-01-DCP-12-INT-02-01E01-QTDE",
+                        "titulo": "qtde",
+                        "info": "1 unid."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-21-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-21-PISPIS-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 26.716,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-21-PISPIS-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-21-PISPIS-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.7 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-21-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-21-REVREV-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 9.36,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-21-REVREV-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-21-REVREV-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "9.4 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-22-FOR",
+                "nome": "Forro de Gesso",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-22-FOR-TAB-P01",
+                    "img": "",
+                    "url": "",
+                    "comprimento": 21.480000000000004,
+                    "tipo": "Tabica",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-22-FOR-TAB-P01-ITM",
+                        "titulo": "item",
+                        "info": "Tabica - Perfil L - 2 x 2 cm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-22-FOR-TAB-P01-COMP",
+                        "titulo": "comprimento",
+                        "info": "21.5 m"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-22-GES-P01",
+                    "descricao": "Placa de Gesso Acartonado",
+                    "img": "",
+                    "url": "",
+                    "area": 26.923,
+                    "tipo": "Gesso",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-22-FOR-GES-P01-ITM",
+                        "titulo": "item",
+                        "info": "Placa de Gesso Acartonado"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-22-GES-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-23-ELET",
+                "nome": "Conduites",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-23-ELET-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-23-ELET-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-24-HIDRA",
+                "nome": "Tubos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-24-HIDRA-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-24-HIDRA-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-25-ARCOND",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-25-ARCOND-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-25-ARCOND-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-02-DCP-26-EXAUST",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-02-DCP-26-EXAUST-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-02-DCP-26-EXAUST-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0101",
+                "nome": "Bancada da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0101",
+                    "img": "./img/marmore-calacata.jpg",
+                    "url": "",
+                    "area": 4.633999999999999,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0101-MRM-P01-0101-PED",
+                        "titulo": "pedra",
+                        "info": "M\u00e1rmore"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0101-MRM-P01-0101-ESP",
+                        "titulo": "especificacao",
+                        "info": "Calacata"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0101-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "4.6 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0102",
+                "nome": "Ilha da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0102",
+                    "img": "./img/marmore-calacata.jpg",
+                    "url": "",
+                    "area": 6.465000000000001,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0102-MRM-P01-0102-PED",
+                        "titulo": "pedra",
+                        "info": "M\u00e1rmore"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0102-MRM-P01-0102-ESP",
+                        "titulo": "especificacao",
+                        "info": "Calacata"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-33-MRM-P01-0102-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "6.5 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101",
+                "nome": "Arm\u00e1rio alto da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MAD-P01",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 4.434927,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MAD-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "4.4 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 2.0237700000000003,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MRC-P01-0101-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0101-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "2.0 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102",
+                "nome": "Arm\u00e1rio da bancada da Cozinha",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MAD-P01",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 8.659471000000002,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MAD-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "8.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 1.7723999999999998,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "1.8 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MAD-P02",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 2.0983124999999996,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MRC-P01-0102-ESP",
+                        "titulo": "espessura",
+                        "info": "6 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0102-MAD-P02-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "2.1 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103",
+                "nome": "Torre do Refrigerador",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MAD-P01",
+                    "img": "./img/guararapes-brancotx.jpg",
+                    "url": "https://www.guararapes.com.br/produto/branco-tx",
+                    "area": 1.737072,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-FAB",
+                        "titulo": "fabricante",
+                        "info": "Guararapes"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Branco TX"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MAD-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "1.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 3.955823999999999,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MRC-P01-0103-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0103-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "4.0 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104",
+                "nome": "Painel da Sala",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104-MAD-P03",
+                    "img": "./img/arauco-cinzacristal.jpg",
+                    "url": "https://www.arauco.cl/brasil/marcas/araucomelamina/cinza-cristal/",
+                    "area": 9.36,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-FAB",
+                        "titulo": "fabricante",
+                        "info": "Arauco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-ESPC",
+                        "titulo": "especificacao",
+                        "info": "Cinza Cristal"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-MAD",
+                        "titulo": "madeira",
+                        "info": "MDF"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104-MRC-P01-0104-ESP",
+                        "titulo": "espessura",
+                        "info": "18 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-34-MRC-P01-0104-MAD-P03-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "9.4 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-35-MOB",
+                "nome": "Mobili\u00e1rio",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-35-MOBSOF-P01-0101",
+                    "img": "./img/sofa-boxie.jpg",
+                    "url": "https://boobam.com.br/produto/sofa-boxie-cru-15078",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-35-MOBSOF-P01-0101-TIP",
+                        "titulo": "tipo",
+                        "info": "Sofa"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-35-MOBSOF-P01-0101-ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "Boxie"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-35-MOBSOF-P01-0101-FABR",
+                        "titulo": "fabricante",
+                        "info": "Boobam / Est\u00fadio Bro"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-35-MOBSOF-P01-0101-COR",
+                        "titulo": "cor",
+                        "info": "Cru"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIS-P01",
+                    "img": "./img/portobello-foogybianco.jpg",
+                    "url": "https://www.portobello.com.br/produtos/living/foggy-bianco/1914/revestimentos/porcelanato?channel=portobello-shop",
+                    "area": 26.716,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIS-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Portobello"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIS-P01ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "Foogy Bianco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIS-P01MAT",
+                        "titulo": "material",
+                        "info": "Porcelanato"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIS-P01REJ",
+                        "titulo": "rejunte",
+                        "info": ""
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIS-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.7 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-31-ROD",
+                "nome": "Rodap\u00e9s",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-31-ROD-ROD-P01",
+                    "img": "./img/santaluzia-lev71brancodepoliestireno.jpg",
+                    "url": "https://www.industriasantaluzia.com.br/produtos/detalhes/rodape/rodape-lev71-branco-de-poliestireno-com-70mm-de-altura/",
+                    "comprimento": 17.54,
+                    "tipo": "Tabica",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-ROD-ROD-P01-FAB",
+                        "titulo": "fabricante",
+                        "info": "Santa Luzia"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-ROD-ROD-P01-LAR",
+                        "titulo": "largura",
+                        "info": "70 mm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-ROD-ROD-P01-ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "LEV71 Branco de Poliestireno"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-ROD-ROD-P01-COMP",
+                        "titulo": "comprimento",
+                        "info": "17.5 m"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-31-REV",
+                "nome": "Revestimentos",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIN-PIN-P01",
+                    "descricao": "Suvinil - Maciota",
+                    "img": "./img/suvinil-maciota.jpg",
+                    "url": "https://www.suvinil.com.br/cores/leque-cores-digital/brancas-e-leves/maciota-b522/c0r",
+                    "area": 48.497,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P01ESP",
+                        "titulo": "cor",
+                        "info": "Maciota"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P01TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P01ACA",
+                        "titulo": "acabamento",
+                        "info": "Toque de Seda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIN-PIN-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "48.5 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIN-PIN-P02",
+                    "descricao": "Suvinil - Rende e Cobre Muito",
+                    "img": "./img/suvinil-branconeve.jpg",
+                    "url": "https://loja.suvinil.com.br/paredes/tintas-exterior-e-interior/tinta-suvinil-fosco-completo/77/pr0d?cor=RM181",
+                    "area": 26.745,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P02FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P02ESP",
+                        "titulo": "cor",
+                        "info": "Branco Neve"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P02TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIS-PIN-P02ACA",
+                        "titulo": "acabamento",
+                        "info": "Fosco Completo"
+                      },
+                      {
+                        "id": "PAINEL-AMB-01-ETP-03-DCP-31-PIN-PIN-P02-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.7 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "AMB-02": {
+    "nome": "Varanda",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-11-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-11-PIS-PIS-E01-0201",
+                    "img": "",
+                    "url": "",
+                    "area": 26.265,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-11-PIS-PIS-E01-0201-ITM",
+                        "titulo": "item",
+                        "info": "Piso da Varanda"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-11-PIS-PIS-E01-0201-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-11-PIS-PIS-E01-0201-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-11-PIS-PIS-E01-0201-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-02-ETP-01-DCP-11-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-01-DCP-11-REV-REV-E02-0201",
+                    "img": "",
+                    "url": "",
+                    "area": 52.01,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-REV-REV-E02-0201-ITM",
+                        "titulo": "item",
+                        "info": "Revestimento da Varanda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-REV-REV-E02-0201-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Cinza"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-REV-REV-E02-0201-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-REV-REV-E02-0201-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "52.0 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-02-ETP-01-DCP-11-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-01-DCP-11-PIN-PIN-E01-0201",
+                    "img": "",
+                    "url": "",
+                    "area": 26.265,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-PIN-PIN-E01-0201-ITM",
+                        "titulo": "item",
+                        "info": "Pintura do Teto da Varanda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-PIN-PIN-E01-0201-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-PIN-PIN-E01-0201-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-01-DCP-11-PIN-PIN-E01-0201-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-12-TOM",
+                "nome": "Tomadas",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-PAINEL-AMB-02-ETP-01-DCP-12-INT",
+                "nome": "Interruptores",
+                "itens": []
+              }
+            ]
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-21-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-21-PISPIS-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 26.265,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-21-PISPIS-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-21-PISPIS-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-21-REV",
+                "nome": "Revestimentos",
+                "itens": []
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-22-FOR",
+                "nome": "Forro de Gesso",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-22-FOR-TAB-P01",
+                    "img": "",
+                    "url": "",
+                    "comprimento": 29.42,
+                    "tipo": "Tabica",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-22-FOR-TAB-P01-ITM",
+                        "titulo": "item",
+                        "info": "Tabica - Perfil L - 2 x 2 cm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-22-FOR-TAB-P01-COMP",
+                        "titulo": "comprimento",
+                        "info": "29.4 m"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-22-GES-P01",
+                    "descricao": "Placa de Gesso Acartonado",
+                    "img": "",
+                    "url": "",
+                    "area": 25.681,
+                    "tipo": "Gesso",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-22-FOR-GES-P01-ITM",
+                        "titulo": "item",
+                        "info": "Placa de Gesso Acartonado"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-22-GES-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "25.7 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-23-ELET",
+                "nome": "Conduites",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-23-ELET-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-23-ELET-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-24-HIDRA",
+                "nome": "Tubos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-24-HIDRA-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-24-HIDRA-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-25-ARCOND",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-25-ARCOND-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-25-ARCOND-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-02-DCP-26-EXAUST",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-02-DCP-26-EXAUST-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-02-DCP-26-EXAUST-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "conjuntos": []
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "conjuntos": []
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-03-DCP-35-MOB",
+                "nome": "Mobili\u00e1rio",
+                "itens": []
+              }
+            ]
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIS-P01",
+                    "img": "./img/portobello-foogybianco.jpg",
+                    "url": "https://www.portobello.com.br/produtos/living/foggy-bianco/1914/revestimentos/porcelanato?channel=portobello-shop",
+                    "area": 26.265,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIS-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Portobello"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIS-P01ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "Foogy Bianco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIS-P01MAT",
+                        "titulo": "material",
+                        "info": "Porcelanato"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIS-P01REJ",
+                        "titulo": "rejunte",
+                        "info": ""
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIS-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "26.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-02-ETP-03-DCP-31-ROD",
+                "nome": "Rodap\u00e9s",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-AMB-02-ETP-03-DCP-31-REV",
+                "nome": "Revestimentos",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIN-PIN-P02",
+                    "descricao": "Suvinil - Rende e Cobre Muito",
+                    "img": "./img/suvinil-branconeve.jpg",
+                    "url": "https://loja.suvinil.com.br/paredes/tintas-exterior-e-interior/tinta-suvinil-fosco-completo/77/pr0d?cor=RM181",
+                    "area": 25.681,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIN-P02FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIN-P02ESP",
+                        "titulo": "cor",
+                        "info": "Branco Neve"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIN-P02TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIS-PIN-P02ACA",
+                        "titulo": "acabamento",
+                        "info": "Fosco Completo"
+                      },
+                      {
+                        "id": "PAINEL-AMB-02-ETP-03-DCP-31-PIN-PIN-P02-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "25.7 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "AMB-03": {
+    "nome": "\u00c1rea de Servi\u00e7o",
+    "etapas": {
+      "ETP-01": {
+        "nome": "Situa\u00e7\u00e3o Existente",
+        "disciplinas": {
+          "DCP-11": {
+            "nome": "Levantamento Formal",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0302",
+                    "img": "",
+                    "url": "",
+                    "area": 5.67,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0302-ITM",
+                        "titulo": "item",
+                        "info": "Piso interno da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0302-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0302-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0302-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "5.7 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 1.26,
+                    "infos": [
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0301-ITM",
+                        "titulo": "item",
+                        "info": "Piso externo da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-11-PIS-PIS-E01-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "1.3 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E01-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 19.908,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E01-0301-ITM",
+                        "titulo": "item",
+                        "info": "Revestimento interno da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E01-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E01-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E01-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "19.9 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E02-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 8.38,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E02-0301-ITM",
+                        "titulo": "item",
+                        "info": "Revestimento Externo da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E02-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": "Existente - Cinza"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E02-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-REV-REV-E02-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "8.4 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-03-ETP-01-DCP-11-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-01-DCP-11-PIN-PIN-E01-0301",
+                    "img": "",
+                    "url": "",
+                    "area": 7.11,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-PIN-PIN-E01-0301-ITM",
+                        "titulo": "item",
+                        "info": "Pintura do Teto da \u00c1rea de Servi\u00e7o"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-PIN-PIN-E01-0301-DESC",
+                        "titulo": "descri\u00e7\u00e3o",
+                        "info": null
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-PIN-PIN-E01-0301-ESTD",
+                        "titulo": "estado de conserva\u00e7\u00e3o",
+                        "info": "Bom"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-01-DCP-11-PIN-PIN-E01-0301-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "7.1 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-12": {
+            "nome": "Pontos de El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-12-TOM",
+                "nome": "Tomadas",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-PAINEL-AMB-03-ETP-01-DCP-12-INT",
+                "nome": "Interruptores",
+                "itens": []
+              }
+            ]
+          }
+        }
+      },
+      "ETP-02": {
+        "nome": "Reforma",
+        "disciplinas": {
+          "DCP-21": {
+            "nome": "A Demolir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-21-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-21-PISPIS-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 6.93,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-21-PISPIS-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-21-PISPIS-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "6.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-21-REV",
+                "nome": "Revestimentos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-21-REVREV-E01",
+                    "img": "",
+                    "url": "",
+                    "area": 19.908,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-21-REVREV-E01-ITM",
+                        "titulo": "item",
+                        "info": "Existente - Branco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-21-REVREV-E01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "19.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-22": {
+            "nome": "A Construir",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-22-FOR",
+                "nome": "Forro de Gesso",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-22-FOR-TAB-P01",
+                    "img": "",
+                    "url": "",
+                    "comprimento": 11.5,
+                    "tipo": "Tabica",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-22-FOR-TAB-P01-ITM",
+                        "titulo": "item",
+                        "info": "Tabica - Perfil L - 2 x 2 cm"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-22-FOR-TAB-P01-COMP",
+                        "titulo": "comprimento",
+                        "info": "11.5 m"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-22-GES-P01",
+                    "descricao": "Placa de Gesso Acartonado",
+                    "img": "",
+                    "url": "",
+                    "area": 6.882,
+                    "tipo": "Gesso",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-22-FOR-GES-P01-ITM",
+                        "titulo": "item",
+                        "info": "Placa de Gesso Acartonado"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-22-GES-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "6.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-23": {
+            "nome": "El\u00e9trica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-23-ELET",
+                "nome": "Conduites",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-23-ELET-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-23-ELET-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-24": {
+            "nome": "Hidr\u00e1ulica",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-24-HIDRA",
+                "nome": "Tubos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-24-HIDRA-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-24-HIDRA-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-25": {
+            "nome": "Ar-condicionado",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-25-ARCOND",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-25-ARCOND-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-25-ARCOND-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "DCP-26": {
+            "nome": "Exaust\u00e3o",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-02-DCP-26-EXAUST",
+                "nome": "Dutos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-02-DCP-26-EXAUST-ITEM",
+                    "nome": "",
+                    "descricao": "",
+                    "img": "",
+                    "url": "",
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-02-DCP-26-EXAUST-ITEMINFO",
+                        "titulo": "",
+                        "info": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "ETP-03": {
+        "nome": "Situa\u00e7\u00e3o Projetada",
+        "disciplinas": {
+          "DCP-33": {
+            "nome": "Marmoraria",
+            "conjuntos": []
+          },
+          "DCP-34": {
+            "nome": "Marcenaria",
+            "conjuntos": []
+          },
+          "DCP-35": {
+            "nome": "Equipamentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-03-DCP-35-MOB",
+                "nome": "Mobili\u00e1rio",
+                "itens": []
+              }
+            ]
+          },
+          "DCP-31": {
+            "nome": "Pisos e Revestimentos",
+            "conjuntos": [
+              {
+                "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS",
+                "nome": "Pisos",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIS-P01",
+                    "img": "./img/portobello-foogybianco.jpg",
+                    "url": "https://www.portobello.com.br/produtos/living/foggy-bianco/1914/revestimentos/porcelanato?channel=portobello-shop",
+                    "area": 6.93,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIS-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Portobello"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIS-P01ESP",
+                        "titulo": "especifica\u00e7\u00e3o",
+                        "info": "Foogy Bianco"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIS-P01MAT",
+                        "titulo": "material",
+                        "info": "Porcelanato"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIS-P01REJ",
+                        "titulo": "rejunte",
+                        "info": ""
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIS-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "6.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "PAINEL-AMB-03-ETP-03-DCP-31-ROD",
+                "nome": "Rodap\u00e9s",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-AMB-03-ETP-03-DCP-31-REV",
+                "nome": "Revestimentos",
+                "itens": []
+              },
+              {
+                "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIN",
+                "nome": "Pinturas",
+                "itens": [
+                  {
+                    "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIN-PIN-P02",
+                    "descricao": "Suvinil - Rende e Cobre Muito",
+                    "img": "./img/suvinil-branconeve.jpg",
+                    "url": "https://loja.suvinil.com.br/paredes/tintas-exterior-e-interior/tinta-suvinil-fosco-completo/77/pr0d?cor=RM181",
+                    "area": 6.882,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P02FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P02ESP",
+                        "titulo": "cor",
+                        "info": "Branco Neve"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P02TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P02ACA",
+                        "titulo": "acabamento",
+                        "info": "Fosco Completo"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIN-PIN-P02-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "6.9 m\u00b2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIN-PIN-P01",
+                    "descricao": "Suvinil - Maciota",
+                    "img": "./img/suvinil-maciota.jpg",
+                    "url": "https://www.suvinil.com.br/cores/leque-cores-digital/brancas-e-leves/maciota-b522/c0r",
+                    "area": 19.908,
+                    "infos": [
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P01FAB",
+                        "titulo": "fabricante",
+                        "info": "Suvinil"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P01ESP",
+                        "titulo": "cor",
+                        "info": "Maciota"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P01TIN",
+                        "titulo": "tinta",
+                        "info": "Acr\u00edlico Premium"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIS-PIN-P01ACA",
+                        "titulo": "acabamento",
+                        "info": "Toque de Seda"
+                      },
+                      {
+                        "id": "PAINEL-AMB-03-ETP-03-DCP-31-PIN-PIN-P01-AREA",
+                        "titulo": "\u00e1rea",
+                        "info": "19.9 m\u00b2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

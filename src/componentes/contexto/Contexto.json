@@ -1,0 +1,21 @@
+{
+  "AMB-00": "Apartamento",
+  "AMB-01": "Sala e Cozinha",
+  "AMB-02": "Varanda",
+  "AMB-03": "\u00c1rea de Servi\u00e7o",
+  "ETP-01": "Situa\u00e7\u00e3o Existente",
+  "ETP-02": "Reforma",
+  "ETP-03": "Situa\u00e7\u00e3o Projetada",
+  "DCP-11": "Levantamento Formal",
+  "DCP-12": "Pontos de El\u00e9trica",
+  "DCP-21": "A Demolir",
+  "DCP-22": "A Construir",
+  "DCP-23": "El\u00e9trica",
+  "DCP-24": "Hidr\u00e1ulica",
+  "DCP-25": "Ar-condicionado",
+  "DCP-26": "Exaust\u00e3o",
+  "DCP-33": "Marmoraria",
+  "DCP-34": "Marcenaria",
+  "DCP-35": "Equipamentos",
+  "DCP-31": "Pisos e Revestimentos"
+}
